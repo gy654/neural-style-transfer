@@ -63,7 +63,7 @@ Style 1 on NYU Stern School of Business
 
 ![alt text]()
 
-Style 2 on NYU Stern School of Business
+Style 6 on NYU Stern School of Business
 
 ![alt text](https://github.com/gy654/DS301/blob/main/output/aggFalselayerTrue_BestStyle2.png)
 
