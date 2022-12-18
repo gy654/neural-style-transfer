@@ -1,4 +1,4 @@
-# DS-301 Neural Style Tranfer
+# Neural Style Tranfer
 
 _This is the class project in New York University **Advanced Topics in Data Science: Advanced Techniques in ML and Deep Learning** class during 2022 Fall. All rights reserved._
 
