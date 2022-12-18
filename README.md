@@ -66,7 +66,7 @@ Style 2 on NYU Stern School of Business
 ![alt text]()
 
 ## Preliminary Conclusion
-We visually provides some insights on how users can obtain desired output images that assimilates the artistic painting in texture while preserving the content of the original photograph by customizing feature extractors in multiple ways. (feature extractors tailored to achieve different artistic effects) 
+We visually provides some insights on how users can obtain desired output images that assimilates the artistic painting in texture while preserving the content of the original photograph by customizing feature extractors in multiple ways. (feature extractors can be tailored to achieve different artistic effects) 
 
 - Extractor architecture makes a difference
 - Using more number of layers during extraction add richer style information to the output
