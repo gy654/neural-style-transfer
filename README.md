@@ -65,7 +65,7 @@ Style 1 on NYU Stern School of Business
 
 Style 2 on NYU Stern School of Business
 
-![alt text](https://github.com/gy654/DS301/blob/main/output/AlexNet_Style2/aggFalselayerTrue/aggFalselayerTrue_10000.png)
+![alt text](https://github.com/gy654/DS301/blob/main/output/aggFalselayerTrue_BestStyle2.png)
 
 ## Preliminary Conclusion
 We visually provides some insights on how users can obtain desired output images that assimilates the artistic painting in texture while preserving the content of the original photograph by customizing feature extractors in multiple ways. (feature extractors can be tailored to achieve different artistic effects) 
