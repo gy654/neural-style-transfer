@@ -58,9 +58,12 @@ _Note: If one wants to use the model's max pooling layer as the content extracto
 
 ## Results (including charts/tables) and Your Observations
 All the results will be saved and can be looked at the `output` folder. Here the best results are shown:
-! [Style_1]()
 
-! [Style_2]()
+Style 1 on NYU Stern School of Business
+![alt text]()
+
+Style 2 on NYU Stern School of Business
+![alt text]()
 
 
 ## Collaborators
