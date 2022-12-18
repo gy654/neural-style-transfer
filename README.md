@@ -67,4 +67,4 @@ Style 2 on NYU Stern School of Business
 
 
 ## Collaborators
-People who contribute to this project: Grace Yang (gy654@nyu.edu), Stephen Zhang (stephen.zhang@nyu.edu)
+Contributor to this project: Grace Yang (gy654@nyu.edu), Stephen Zhang (stephen.zhang@nyu.edu)
