@@ -61,7 +61,7 @@ All the results will be saved and can be looked at the `output` folder. Here the
 
 Style 1 on NYU Stern School of Business
 
-![alt text](https://github.com/gy654/DS301/blob/main/output/aggTruelayerTrue_BestStyle1.png)
+![alt text]()
 
 Style 6 on NYU Stern School of Business
 
