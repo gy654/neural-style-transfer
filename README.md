@@ -74,6 +74,7 @@ We visually provides some insights on how users can obtain desired output images
 - Using more number of layers during extraction add richer style information to the output
 - Using conv layers add richer style information to the output compared with using maxpool layers
 - Whether or not aggregating the content loss of multiple layers makes no significant difference
+- Training for too many epochs will eventually distort and ruin the output images
 
 
 ## Collaborators
